@@ -5,7 +5,7 @@
 
 # 荣耀三班  / Honor 3
 
-[荣耀三班中考文件发布站](http://file.zhilu.fun) **里面超刺激的！有假期开始时间，[中考试题答案](http://mp.weixin.qq.com/s?__biz=MzAxODI2NTIyMw==&mid=2452997479&idx=1&sn=61068a8c7cddec76ccfe3faf0b6c8586&chksm=8c19808fbb6e09999af5844394650385483a5da08041a67dceaf0a4acd4abdfe4bce52e2b8e8&mpshare=1&scene=23&srcid=0705BlrVcQpfWB6PuO5tQP2z#rd)！**
+[荣耀三班中考文件发布站](http://file.zhilu.fun) **里面超刺激的！有假期计时版和 [中考试题答案](http://mp.weixin.qq.com/s?__biz=MzAxODI2NTIyMw==&mid=2452997479&idx=1&sn=61068a8c7cddec76ccfe3faf0b6c8586&chksm=8c19808fbb6e09999af5844394650385483a5da08041a67dceaf0a4acd4abdfe4bce52e2b8e8&mpshare=1&scene=23&srcid=0705BlrVcQpfWB6PuO5tQP2z#rd) ！**
 
 [荣耀三班毕业照&签名墙](http://HONOR3.zhilu.fun:1903) 只有家用机开启时才能正常访问
 
@@ -54,7 +54,11 @@ GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu(纸鹿)
 | 位置 / Loction | 中国北京 |
 
 ## 流光城腐竹失踪之谜 / Mystery of Missing Owner
-据 [CunMin(村民)](https://zh-cn.namemc.com/profile/CunMin.1) 说， [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.1) 是一名程序员，他已经暂时抛弃服务器，投身于他的代码事业了，可以去看看， [支持一下](http://passtime.cn) 。
+据 [CunMin(村民)](https://zh-cn.namemc.com/profile/CunMin.1) 说， [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.1) 是一名程序员，他已经暂时离开服务器，投身于他的代码事业了，可以去看看， [支持一下](http://passtime.cn) 。
+
+# 友链 / Cooperative Links
+
+[WCZ的个人主页](http://wcz.one)
 
 # 联系我 / Contact Me (图片可点击)
 
