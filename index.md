@@ -1,123 +1,53 @@
----
-layout: default
----
+# 荣耀三班  / Honor 3
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[荣耀三班中考文件发布站](http://file.zhilu.fun) **里面超刺激的！有假期开始时间，[中考试题答案](http://mp.weixin.qq.com/s?__biz=MzAxODI2NTIyMw==&mid=2452997479&idx=1&sn=61068a8c7cddec76ccfe3faf0b6c8586&chksm=8c19808fbb6e09999af5844394650385483a5da08041a67dceaf0a4acd4abdfe4bce52e2b8e8&mpshare=1&scene=23&srcid=0705BlrVcQpfWB6PuO5tQP2z#rd)！**
 
-[Link to another page](./another-page.html).
+[荣耀三班毕业照&签名墙](http://HONOR3.zhilu.fun) 只有电脑开启时
 
-There should be whitespace between paragraphs.
+# MC服务器存活情况 / Situation of Minecraft servers
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 灰熊工艺 / GrizzlyCraft
 
-# Header 1
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.wcz.one/embed" width="728" height="90"></iframe>
+| 服务器地址 / IP | mc.wcz.one|
+|:--|:--|
+| 服务器主页/Homepage | http://grizzly.wcz.one/ |
+| 服主 / Owner | [WCZ](https://zh-cn.namemc.com/profile/WCZ.1) |
+| 版本 / Version | Spigot 1.14.3 |
+| 位置 / Loction | 中国南京 |
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+##  赞服 / Zamcraft
 
-## Header 2
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.zamcraft.top/embed" width="728" height="90"></iframe>
+| 服务器地址 / IP | mc.zamcraft.top |
+|:--|:--|
+| 服主 / Owner | [Emilio97 (玖柒)](https://zh-cn.namemc.com/profile/Emilio97.2) |
+| 版本 / Version | Paper 1.13.2 |
+| 位置 / Loction | 中国上海 |
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+玩家 [JiThee (嵇尔)](https://zh-cn.namemc.com/profile/JiThee.1) 为服务器制作了 [赞服地铁通](http://zamsub.JiThee.name) ，可以Star和Issue他的 [Github项目](https://github.com/JiYouMCC/zamsub) 。
 
-### Header 3
+GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu(纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 为此制作了 [赞服地铁通(镜像站)](http://l33z22l11.gitee.io/zamsub/) ，短链接为 http://f.zhilu.fun ，访问速度快，但更新可能存在延迟。
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 流光城 / Passtime
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.passtime.cn/embed" width="728" height="90"></iframe>
+| 服务器地址 / IP | mc.passtime.cn |
+|:--|:--|
+| 服务器百科 | http://wiki.passtime.cn (可能无法正常访问) |
+| 服主 / Owner | [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.2) |
+| 版本 / Version | Paper 1.13.2 |
+| 位置 / Loction | 中国北京 |
 
-#### Header 4
+据 [CunMin(村民)](https://zh-cn.namemc.com/profile/CunMin.1) 说， [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.1) 是一名程序员，他已经投身他的代码事业了，可以去看看， [支持一下](http://passtime.cn) 。
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# 联系我 / Contact me (图片可点击)
 
-##### Header 5
+<a href="https://qm.qq.com/cgi-bin/qm/qr?k=By2DluATPoV1etsCS0xctV5Re-XNm7QX"><img border="0" src="/img/QQ.png" /></a>
+<a href ="https://u.wechat.com/MExxXhrih9746MRfr7DjEJU"><img border="0" src="/img/WeChat.png" /></a>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# 捐助 / Donate (图片可点击)
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<a href="https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&u=2399052066&a=1&n=%CE%96%CA%B0%E2%81%B1%CB%A1%E1%B5%98&ac=CAEQosL69wgY-6jG6QU%3D_xxx_sign"><img border="0" src="/img/QQPay.png" /></a>
+<a href="wxp://f2f0V-TNi3ywRkn0IPIz1HQklPzvrz298S0w"><img border="0" src="/img/WeChatPay.png" /></a>
+<a href="https://qr.alipay.com/fkx02192b7vaststlomwe84?t=1563531751809"><img border="0" src="/img/AliPay.png" /></a>
