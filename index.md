@@ -1,16 +1,23 @@
+# 纸鹿君
+
+管他干什么，摸鱼就对了！
+曾经主页在这里， http://hp.zhilu.fun 咕咕咕~
+
 # 荣耀三班  / Honor 3
 
 [荣耀三班中考文件发布站](http://file.zhilu.fun) **里面超刺激的！有假期开始时间，[中考试题答案](http://mp.weixin.qq.com/s?__biz=MzAxODI2NTIyMw==&mid=2452997479&idx=1&sn=61068a8c7cddec76ccfe3faf0b6c8586&chksm=8c19808fbb6e09999af5844394650385483a5da08041a67dceaf0a4acd4abdfe4bce52e2b8e8&mpshare=1&scene=23&srcid=0705BlrVcQpfWB6PuO5tQP2z#rd)！**
 
-[荣耀三班毕业照&签名墙](http://HONOR3.zhilu.fun) 只有电脑开启时
+[荣耀三班毕业照&签名墙](http://HONOR3.zhilu.fun:1903) 只有家用机开启时才能正常访问
 
 # MC服务器存活情况 / Situation of Minecraft servers
 
 ## 灰熊工艺 / GrizzlyCraft
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.wcz.one/embed" width="728" height="90"></iframe>
-| 服务器地址 / IP | mc.wcz.one|
-|:--|:--|
+### 服务器信息 / Server information
+
+| 服务器地址 / IP | mc.wcz.one |
+|--:|:--|
 | 服务器主页/Homepage | http://grizzly.wcz.one/ |
 | 服主 / Owner | [WCZ](https://zh-cn.namemc.com/profile/WCZ.1) |
 | 版本 / Version | Spigot 1.14.3 |
@@ -19,8 +26,10 @@
 ##  赞服 / Zamcraft
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.zamcraft.top/embed" width="728" height="90"></iframe>
+### 服务器信息 / Server information
+
 | 服务器地址 / IP | mc.zamcraft.top |
-|:--|:--|
+|--:|:--|
 | 服主 / Owner | [Emilio97 (玖柒)](https://zh-cn.namemc.com/profile/Emilio97.2) |
 | 版本 / Version | Paper 1.13.2 |
 | 位置 / Loction | 中国上海 |
@@ -32,8 +41,10 @@ GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu(纸鹿)
 ## 流光城 / Passtime
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.passtime.cn/embed" width="728" height="90"></iframe>
+### 服务器信息 / Server information
+
 | 服务器地址 / IP | mc.passtime.cn |
-|:--|:--|
+|--:|:--|
 | 服务器百科 | http://wiki.passtime.cn (可能无法正常访问) |
 | 服主 / Owner | [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.2) |
 | 版本 / Version | Paper 1.13.2 |
