@@ -1,7 +1,8 @@
 # 纸鹿君
 
 管他干什么，摸鱼就对了！
-曾经主页在[这里：hp.zhilu.fun](http://hp.zhilu.fun) ，咕咕咕~
+
+曾经主页在这里： [hp.zhilu.fun](http://hp.zhilu.fun) ，咕咕咕~
 
 ## 荣耀三班  / Honor 3
 
@@ -18,7 +19,7 @@
 
 | 服务器地址 / IP | mc.wcz.one |
 |--:|:--|
-| 主页/Homepage | http://grizzly.wcz.one/ |
+| 主页/Homepage | [grizzly.wcz.one](http://grizzly.wcz.one) |
 | 服主 / Owner | [WCZ](https://zh-cn.namemc.com/profile/WCZ.1) |
 | 版本 / Version | Spigot 1.14.3 |
 | 位置 / Loction | 中国南京 |
@@ -39,7 +40,7 @@
 #### 赞服地铁通 / Zamsub on Github
 玩家 [JiThee (嵇尔)](https://zh-cn.namemc.com/profile/JiThee.1) 为服务器制作了 [赞服地铁通](http://zamsub.JiThee.name) ，可以Star和Issue他的 [Github项目](https://github.com/JiYouMCC/zamsub) 。
 
-GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu(纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 为此制作了 [赞服地铁通(镜像站)](http://l33z22l11.gitee.io/zamsub/) ，短链接为 http://f.zhilu.fun ，访问速度快，但更新可能存在延迟。
+GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 为此制作了 [赞服地铁通(镜像站)](http://l33z22l11.gitee.io/zamsub/) ，短链接为 [f.zhilu.fun](http://f.zhilu.fun) ，访问速度快，但更新可能存在延迟。
 
 ### 流光城 / Passtime
 
@@ -48,25 +49,28 @@ GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu(纸鹿)
 
 | 服务器地址 / IP | mc.passtime.cn |
 |--:|:--|
-| 服务器百科 | http://wiki.passtime.cn (可能无法正常访问) |
+| 服务器百科 / Wiki | [wiki.passtime.cn](http://wiki.passtime.cn) (可能无法正常访问) |
 | 服主 / Owner | [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.2) |
 | 版本 / Version | Paper 1.13.2 |
 | 位置 / Loction | 中国北京 |
 
 ### 流光城腐竹失踪之谜 / Mystery of Missing Owner
-据 [CunMin(村民)](https://zh-cn.namemc.com/profile/CunMin.1) 说， [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.1) 是一名程序员，他已经暂时离开服务器，投身于他的代码事业了，可以去看看， [支持一下](http://passtime.cn) 。
+据 [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 说， [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.1) 是一名程序员，他已经暂时离开服务器，投身于他的代码事业了，可以去看看， [支持一下](http://passtime.cn) 。
 
 ## 友链 / Cooperative Links
 
-[WCZ的个人主页](http://wcz.one)
+WCZ的个人主页： [wcz.one](http://wcz.one)
 
 ### 联系我 / Contact Me (图片可点击)
 
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=By2DluATPoV1etsCS0xctV5Re-XNm7QX"><img border="0" src="/img/QQ.png" /></a>
+
 <a href ="https://u.wechat.com/MExxXhrih9746MRfr7DjEJU"><img border="0" src="/img/WeChat.png" /></a>
 
 ### 捐助 / Donate (图片可点击)
 
 <a href="https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&u=2399052066&a=1&n=%CE%96%CA%B0%E2%81%B1%CB%A1%E1%B5%98&ac=CAEQosL69wgY-6jG6QU%3D_xxx_sign"><img border="0" src="/img/QQPay.png" /></a>
+
 <a href="wxp://f2f0V-TNi3ywRkn0IPIz1HQklPzvrz298S0w"><img border="0" src="/img/WeChatPay.png" /></a>
+
 <a href="https://qr.alipay.com/fkx02192b7vaststlomwe84?t=1563531751809"><img border="0" src="/img/AliPay.png" /></a>
