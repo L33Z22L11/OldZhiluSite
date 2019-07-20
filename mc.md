@@ -7,16 +7,16 @@ description: 'piu~ 你死了，快来磕瓶药吧'
 
 [荣耀三班 / Honor 3](http://zhilu.fun/honor3)
 
-[MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
+MC服务器 / Minecraft Servers
 
 [关于 / About](http://zhilu.fun/about)
 
-## MC服务器存活情况 / Situation of Minecraft Servers
+# MC服务器存活情况 / Situation of Minecraft Servers
 
-### 灰熊工艺 / GrizzlyCraft
+## 灰熊工艺 / GrizzlyCraft
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.wcz.one/embed" width="728" height="90"></iframe>
-#### 服务器信息 / Server Information
+### 服务器信息 / Server Information
 
 | 服务器地址 / IP | mc.wcz.one                                    |
 | --------------: | :-------------------------------------------- |
@@ -25,12 +25,12 @@ description: 'piu~ 你死了，快来磕瓶药吧'
 |  版本 / Version | Spigot 1.14.3                                 |
 |  位置 / Loction | 中国南京                                      |
 
-##### 这个腐竹很懒，还没有服务器介绍。
+#### 这个腐竹很懒，还没有服务器介绍。
 
-###  赞服 / Zamcraft
+##  赞服 / Zamcraft
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.zamcraft.top/embed" width="728" height="90"></iframe>
-#### 服务器信息 / Server Information
+### 服务器信息 / Server Information
 
 | 服务器地址 / IP | mc.zamcraft.top                                              |
 | --------------: | :----------------------------------------------------------- |
@@ -38,15 +38,15 @@ description: 'piu~ 你死了，快来磕瓶药吧'
 |  版本 / Version | Paper 1.13.2                                                 |
 |  位置 / Loction | 中国上海                                                     |
 
-#### 赞服地铁通 / Zamsub on Github
+### 赞服地铁通 / Zamsub on Github
 玩家 [JiThee (嵇尔)](https://zh-cn.namemc.com/profile/JiThee.1) 为服务器制作了 [赞服地铁通](http://zamsub.JiThee.name) ，可以Star和Issue他的 [Github项目](https://github.com/JiYouMCC/zamsub) 。
 
 GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 为此制作了 [赞服地铁通(镜像站)](http://l33z22l11.gitee.io/zamsub/) ，短链接为 [f.zhilu.fun](http://f.zhilu.fun) ，访问速度快，但更新可能存在延迟。
 
-### 流光城 / Passtime
+## 流光城 / Passtime
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.passtime.cn/embed" width="728" height="90"></iframe>
-#### 服务器信息 / Server Information
+### 服务器信息 / Server Information
 
 |   服务器地址 / IP | mc.passtime.cn                                               |
 | ----------------: | :----------------------------------------------------------- |
@@ -55,6 +55,6 @@ GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu (纸鹿
 |    版本 / Version | Paper 1.13.2                                                 |
 |    位置 / Loction | 中国北京                                                     |
 
-### 流光城腐竹失踪之谜 / Mystery of Missing Owner
+## 流光城腐竹失踪之谜 / Mystery of Missing Owner
 
 据 [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 说， [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.1) 是一名程序员，他已经暂时离开服务器，投身于他的代码事业了，可以去看看， [支持一下](http://passtime.cn) 。

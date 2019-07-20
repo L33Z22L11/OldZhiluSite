@@ -3,7 +3,7 @@ title: '主页'
 description: '这里是纸鹿君的个人小站'
 ---
 
-[主页 / Homepage](http://zhilu.fun)
+主页 / Homepage
 
 [荣耀三班 / Honor 3](http://zhilu.fun/honor3)
 
