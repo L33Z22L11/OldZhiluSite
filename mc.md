@@ -1,6 +1,17 @@
-# MC服务器存活情况
+---
+title: 'MC服务器'
+description: 'piu~ 你死了，快来磕瓶药吧'
+---
 
-## / Situation of Minecraft Servers
+[主页 / Homepage](http://zhilu.fun)
+
+[荣耀三班 / Honor 3](http://zhilu.fun/honor3)
+
+[MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
+
+[关于 / About](http://zhilu.fun/about)
+
+## MC服务器存活情况 / Situation of Minecraft Servers
 
 ### 灰熊工艺 / GrizzlyCraft
 
