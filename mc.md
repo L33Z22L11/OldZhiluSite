@@ -1,6 +1,6 @@
 ---
-title: 'Minecraft服务器存活情况'
-description: 'No further information / Unknown host / Timed out'
+title: 'MC服务器存活情况'
+description: 'No further information / Unknown host / Timed out…… 快来pick！你家服务器还好吗？'
 ---
 
 [主页 / Homepage](http://zhilu.fun)
