@@ -11,8 +11,14 @@ description: '服主皮特洛是个程序员！'
 
 [关于 / About](http://zhilu.fun/about)
 
+------
+
+[TOC]
+
+------
+
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.passtime.cn/embed" width="728" height="90"></iframe>
-# 服务器信息 / Server Information
+# 信息 / Information
 
 |   服务器地址 / IP | mc.passtime.cn                                               |
 | ----------------: | :----------------------------------------------------------- |
@@ -44,6 +50,6 @@ description: '服主皮特洛是个程序员！'
 
 
 
-# 流光城腐竹失踪之谜 / Mystery of Missing Owner
+# 腐竹失踪之谜 / Mystery of Missing Owner
 
 据 [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 说， [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.1) 是一名程序员，他已经暂时离开服务器，投身于他的代码事业了，可以去看看， [支持一下](http://passtime.cn) 。

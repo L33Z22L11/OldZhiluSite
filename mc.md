@@ -11,12 +11,16 @@ MC服务器 / Minecraft Servers
 
 [关于 / About](http://zhilu.fun/about)
 
+------
 
+[TOC]
+
+------
 
 # [灰熊世界 / GrizzlyCraft](http://zhilu.fun/grizzly)
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.wcz.one/embed" width="728" height="90"></iframe>
-## 服务器信息 / Server Information
+## 信息 / Information
 
 |    服务器地址 / IP | mc.wcz.one                                         |
 | -----------------: | :------------------------------------------------- |
@@ -39,7 +43,7 @@ MC服务器 / Minecraft Servers
 # [赞服 / Zamcraft](http://zhilu.fun/zam)
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.zamcraft.top/embed" width="728" height="90"></iframe>
-## 服务器信息 / Server Information
+## 信息 / Information
 
 | 服务器地址 / IP | mc.zamcraft.top                                              |
 | --------------: | :----------------------------------------------------------- |
@@ -59,7 +63,7 @@ MC服务器 / Minecraft Servers
 # [流光城 / Passtime](http://zhilu.fun/passtime)
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.passtime.cn/embed" width="728" height="90"></iframe>
-## 服务器信息 / Server Information
+## 信息 / Information
 
 |   服务器地址 / IP | mc.passtime.cn                                               |
 | ----------------: | :----------------------------------------------------------- |

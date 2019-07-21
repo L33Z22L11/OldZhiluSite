@@ -11,9 +11,16 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 
 [关于 / About](http://zhilu.fun/about)
 
-# 服务器信息 / Server Information
+------
+
+[TOC]
+
+
+
+------
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.wcz.one/embed" width="728" height="90"></iframe>
+# 信息 / Information
 
 
 |    服务器地址 / IP | mc.wcz.one                                         |
@@ -82,5 +89,5 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 >
 > 有什么好的建议请私聊腐竹
 >
-> ![](img/girzzlyboard190613.png)
+> ![](img/grizzlyboard190613.png)
 

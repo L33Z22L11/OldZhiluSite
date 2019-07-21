@@ -11,8 +11,14 @@ description: '服主Emilio97在非洲开了中文服务器！'
 
 [关于 / About](http://zhilu.fun/about)
 
+------
+
+[TOC]
+
+------
+
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.zamcraft.top/embed" width="728" height="90"></iframe>
-# 服务器信息 / Server Information
+# 信息 / Information
 
 | 服务器地址 / IP | mc.zamcraft.top                                              |
 | --------------: | :----------------------------------------------------------- |
