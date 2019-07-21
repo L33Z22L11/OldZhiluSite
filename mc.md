@@ -13,10 +13,6 @@ MC服务器 / Minecraft Servers
 
 ------
 
-[TOC]
-
-------
-
 # [灰熊世界 / GrizzlyCraft](http://zhilu.fun/grizzly)
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.wcz.one/embed" width="728" height="90"></iframe>
