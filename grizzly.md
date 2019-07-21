@@ -11,8 +11,10 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 
 [关于 / About](http://zhilu.fun/about)
 
-<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.wcz.one/embed" width="728" height="90"></iframe>
 # 服务器信息 / Server Information
+
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.wcz.one/embed" width="728" height="90"></iframe>
+
 
 |    服务器地址 / IP | mc.wcz.one                                         |
 | -----------------: | :------------------------------------------------- |
@@ -45,22 +47,39 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 > WCZ 2016/6/13 21:28
 >
 > 下面是服务器地址: 
+>
 > mc.wcz.one 通用地址
+>
 > yd.mc.wcz.one 移动地址
+>
 > lt.mc.wcz.one 联通地址《玩家条例》
+>
 > 本服务器不欢迎熊孩子，熊孩子勿来打扰我们和谐的游戏环境
+>
 > 1.在服务器禁止刷屏，使用不文明，辱骂他人的语言或者恶意挑起战争之类的用语
+>
 > 2.在服务器内，禁止使用作弊类型的模组，欢迎举报
+>
 > 3.禁止在服务器做破坏游戏平衡以及影响服务器运行
+>
 > 4.禁止宣传其他服务器。或者个人淘宝盈利项目
+>
 > 5.禁止破坏他人的游戏体验（暂时那么多）
+>
 > 符合以上的玩家将清除所有数据
+>
 > 声明：
+>
 > 禁止玩家之间RMB交易，出事（诈骗什么的）服务器一律不负责
+>
 > 最后：
+>
 > 你的赞助是对服务器最大的支持
+>
 > 赞助私聊腐竹哦:-O
+>
 > 请把群名片改成游戏里的ID
+>
 > 有什么好的建议请私聊腐竹
 >
 > ![](img/girzzlyboard190613.png)
