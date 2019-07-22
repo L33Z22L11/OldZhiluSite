@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 
 <head>
 <meta http-equiv="Content-Language" content="zh-cn">
@@ -15,8 +15,12 @@
 			  hours = checkTime(hours); 
 			  minutes = checkTime(minutes); 
 			  seconds = checkTime(seconds); 
-			  setInterval("leftTimer(2019,7,5,16,0,0)",1000); 
-			  document.getElementById("timer").innerHTML = days+"天" + hours+"时" + minutes+"分"+seconds+"秒";  
+			  dayss = checkTime(56-days); 
+			  hourss = checkTime(24-hours); 
+			  minutess = checkTime(60-minutes); 
+			  secondss = checkTime(60-seconds); 
+			  setInterval("leftTimer(2019,7,6,0,0,0)",1000); 
+			  document.getElementById("timer").innerHTML = "暑假已经开始" + days+"天" + hours+"时" + minutes+"分"+seconds+"秒，还有" + dayss+"天" + hourss+"时" + minutess+"分"+secondss+"秒结束。";  
 		} 
 		function checkTime(i){ //将0-9的数字前面加上0，例1变为01 
 			if(i<10) 
