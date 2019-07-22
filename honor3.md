@@ -15,9 +15,10 @@ description: '荣耀三班 绝非一般 励志笃行 敢为人先'
 
 # 荣耀三班 / Honor 3
 
-以下部分为框架网页。
+## 假期计时版 / Vacation Timer
 
 <iframe style="width:728px;height:38px;max-width:100%;border:none;display:block;margin:auto" src="timer.html" width="728" height="38"></iframe>
+#### 家用机在线时下方会显示可用网站
 
-<iframe style="width:728px;height:38px;max-width:100%;border:none;display:block;margin:auto" src="http://honor3.zhilu.fun:1903/ok" width="728" height="38"></iframe>
+<iframe style="width:728px;height:38px;max-width:100%;border:none;display:block;margin:auto" src="http://honor3.zhilu.fun:1903/ok.html" width="728" height="38"></iframe>
 
