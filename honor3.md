@@ -15,10 +15,26 @@ description: '荣耀三班 绝非一般 励志笃行 敢为人先'
 
 # 荣耀三班 / Honor 3
 
-## 假期计时版 / Vacation Timer
+2016年9月1日，我们加入了荣耀三班。
 
-<iframe style="width:728px;height:72px;max-width:100%;border:none;display:block;margin:auto" src="timer.html" width="728" height="72"></iframe>
+2016年7月2日，在毕业典礼中，荣耀三班暂时告一段落。
 
-#### 家用机在线时下方会显示可用网站
+> “基础不牢，地动山摇！”
+>
+> “只要思想不滑坡，办法总比困难多！”
+>
+> “思想懈怠一毫米，行动相差几十米！”
+>
+> “观点 + 做法！”
+>
+> “先定性，再定论！”
+>
+> “方法不得当！”
+>
+> ……
+>
+> “花开的时候，就是你们滚蛋的时候！”
+>
+> ……
 
-<iframe style="width:728px;height:72px;max-width:100%;border:none;display:block;margin:auto" src="http://honor3.zhilu.fun:1903/ok.html" width="728" height="72"></iframe>
+#### 有什么想说的，可以通过QQ向我投稿。
