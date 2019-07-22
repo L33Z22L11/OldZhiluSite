@@ -3,22 +3,22 @@
 <head>
 <meta http-equiv="Content-Language" content="zh-cn">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>ÈÙÒ«Èı°àÎÄ¼ş·¢²¼</title>
+<title>è£è€€ä¸‰ç­æ–‡ä»¶å‘å¸ƒ</title>
 	<script language="javascript" type="text/javascript">  
 		function leftTimer(year,month,day,hour,minute,second){ 
-			  var leftTime = (new Date()) - (new Date(year,month-1,day,hour,minute,second)); //¼ÆËã³¬¹ıµÄºÁÃëÊı 
-			  var days = parseInt(leftTime / 1000 / 60 / 60 / 24 , 10); //¼ÆËã³¬¹ıµÄÌìÊı 
-			  var hours = parseInt(leftTime / 1000 / 60 / 60 % 24 , 10); //¼ÆËã³¬¹ıµÄĞ¡Ê± 
-			  var minutes = parseInt(leftTime / 1000 / 60 % 60, 10);//¼ÆËã³¬¹ıµÄ·ÖÖÓ 
-			  var seconds = parseInt(leftTime / 1000 % 60, 10);//¼ÆËã³¬¹ıµÄÃëÊı 
+			  var leftTime = (new Date()) - (new Date(year,month-1,day,hour,minute,second)); //è®¡ç®—è¶…è¿‡çš„æ¯«ç§’æ•° 
+			  var days = parseInt(leftTime / 1000 / 60 / 60 / 24 , 10); //è®¡ç®—è¶…è¿‡çš„å¤©æ•° 
+			  var hours = parseInt(leftTime / 1000 / 60 / 60 % 24 , 10); //è®¡ç®—è¶…è¿‡çš„å°æ—¶ 
+			  var minutes = parseInt(leftTime / 1000 / 60 % 60, 10);//è®¡ç®—è¶…è¿‡çš„åˆ†é’Ÿ 
+			  var seconds = parseInt(leftTime / 1000 % 60, 10);//è®¡ç®—è¶…è¿‡çš„ç§’æ•° 
 			  days = checkTime(days); 
 			  hours = checkTime(hours); 
 			  minutes = checkTime(minutes); 
 			  seconds = checkTime(seconds); 
 			  setInterval("leftTimer(2019,7,5,16,0,0)",1000); 
-			  document.getElementById("timer").innerHTML = days+"Ìì" + hours+"Ê±" + minutes+"·Ö"+seconds+"Ãë";  
+			  document.getElementById("timer").innerHTML = days+"å¤©" + hours+"æ—¶" + minutes+"åˆ†"+seconds+"ç§’";  
 		} 
-		function checkTime(i){ //½«0-9µÄÊı×ÖÇ°Ãæ¼ÓÉÏ0£¬Àı1±äÎª01 
+		function checkTime(i){ //å°†0-9çš„æ•°å­—å‰é¢åŠ ä¸Š0ï¼Œä¾‹1å˜ä¸º01 
 			if(i<10) 
 			  { 
 			    i = "0" + i; 
@@ -33,7 +33,7 @@
 
 	<body onload="leftTimer()"> 
   
-<div id="timer"></div>
+	<div id="timer"></div>
 
 </body>
 
