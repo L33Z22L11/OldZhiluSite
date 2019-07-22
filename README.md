@@ -1,6 +1,6 @@
 ---
-title: '关于'
-description: '你猜我猜你猜我猜你在哪'
+title: '自述'
+description: '关于纸鹿君的个人网站'
 ---
 
 [主页 / Homepage](http://zhilu.fun)
@@ -9,7 +9,7 @@ description: '你猜我猜你猜我猜你在哪'
 
 [MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
 
-关于 / About
+自述 / Readme
 
 ------
 
