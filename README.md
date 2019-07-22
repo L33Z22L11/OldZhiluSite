@@ -1,6 +1,6 @@
 ---
-title: '关于'
-description: '你猜我猜你猜我猜你在哪'
+title: '自述'
+description: '关于纸鹿君的个人小站'
 ---
 
 [主页 / Homepage](http://zhilu.fun)
