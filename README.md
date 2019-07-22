@@ -1,6 +1,6 @@
 ---
-title: '自述'
-description: '关于纸鹿君的个人网站'
+title: '关于'
+description: '你猜我猜你猜我猜你在哪'
 ---
 
 [主页 / Homepage](http://zhilu.fun)
@@ -13,21 +13,14 @@ description: '关于纸鹿君的个人网站'
 
 ------
 
+# 关于 / About
+
+
+
 # 友链 / Cooperative Links
 
 WCZ的个人主页： [wcz.one](http://wcz.one)
 
-# 联系我 / Contact Me (图片可点击)
+# 联系我 / Contact Me
 
-<a href="https://qm.qq.com/cgi-bin/qm/qr?k=By2DluATPoV1etsCS0xctV5Re-XNm7QX"><img border="0" src="/img/QQ.png" /></a>
-
-<a href ="https://u.wechat.com/MExxXhrih9746MRfr7DjEJU"><img border="0" src="/img/WeChat.png" /></a>
-
-# 捐助 / Donate
-
-![](/img/QQPay.png)
-
-![](/img/WeChatPay.png)
-
-![](/img/AliPay.png)
-
+[QQ交谈](http://sighttp.qq.com/msgrd?v=1&uin=2399052066)

@@ -9,7 +9,7 @@ description: '服主皮特洛是个程序员！'
 
 [MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
 
-[关于 / About](http://zhilu.fun/about)
+[自述 / Readme](http://zhilu.fun/readme)
 
 ------
 
