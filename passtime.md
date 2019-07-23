@@ -46,6 +46,40 @@ description: '服主皮特洛是个程序员！'
 
 
 
+# [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 对 [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.1) 的介绍 / About PeterLuo
+
+选自 [情热大陆](http:/jt.zhilu.fun) 群公告
+
+> CunMin & DiSHIL 2018.11.15 19:47
+>
+> 皮特洛不仅是一个程序员，更是一个极客！
+>
+> 他的实力远超于我们服务器的所有人，包括服主村民和前服主WCZ。
+>
+> 虽然他玩Minecraft只有两个月，游戏技巧还有待提高，但是他已经将这个游戏的程序方面研究透彻。
+>
+> 最近他开了Minecraft服务器，但是每天都会增加一个他自己写的小功能，每周都会增加一个大插件。
+>
+> 他还制作了特色怪物副本、随机掉落事件等等。目前正在努力开发新玩法。
+>
+> 他很幽默、乐观、善良，并有成为科学家的潜质。
+>
+> 村民有幸在一个偶然的机会找到了他，并拜他为师，在他的服务器里修行。
+>
+> 如果大家想找村民和皮特洛一起玩，就来这里吧！
+>
+> 服务器名称：流光城
+>
+> 版本：1.13.X
+>
+> 地址：mc.passtime.cn
+>
+> 服务器群号：[786973882](https://jq.qq.com/?_wv=1027&k=5iZ9CtJ)
+>
+> 流光城服务器欢迎你的到来!
+
+
+
 # 腐竹失踪之谜 / Mystery of Missing Owner
 
 据 [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 说， [PeterLuo (皮特洛)](https://zh-cn.namemc.com/profile/PeterLuo.1) 是一名程序员，他已经暂时离开服务器，投身于他的代码事业了，可以去看看， [支持一下](http://passtime.cn) 。

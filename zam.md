@@ -31,7 +31,7 @@ description: '服主Emilio97在非洲开了中文服务器！'
 
 # 介绍 / Introduction
 
-选自赞服QQ群群公告
+选自赞服群公告
 
 > Emilio97 2019/6/10 01:06
 >

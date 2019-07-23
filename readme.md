@@ -23,4 +23,4 @@ WCZ的个人主页： [wcz.one](http://wcz.one)
 
 # 联系我 / Contact Me
 
-[QQ交谈](http://sighttp.qq.com/msgrd?v=1&uin=2399052066)
+[QQ交谈](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)
