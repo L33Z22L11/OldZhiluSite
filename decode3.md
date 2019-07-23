@@ -29,7 +29,7 @@ description: '解析百态文字 还原千姿回忆'
 
 ## “感恩从心开始 让爱照亮彼此”班队会 18.5.7
 
-[主持词](http://zhilu.fun/txg180507h)　　[通讯稿](http://zhilu.fun/txg180507c)
+[主持词](http://zhilu.fun/txg/180507h)　　[通讯稿](http://zhilu.fun/txg/180507c)
 
 ## 凤翔研学 17.4.1
 
