@@ -83,5 +83,4 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 >
 > 有什么好的建议请私聊腐竹
 >
-> ![](img/grizzlyboard190613.png)
 
