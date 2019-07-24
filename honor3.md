@@ -15,7 +15,7 @@ description: '荣耀三班 绝非一般 励志笃行 敢为人先'
 
 # 荣耀三班 / Honor 3
 
-## [解密三班 / Decode Class 3](http://zhilu.fun/decode3)
+## [解密三班 / Decrypt Class 3](http://zhilu.fun/decrypt3)
 
 ## 文字征集 [点击添加你想说的...](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)
 
