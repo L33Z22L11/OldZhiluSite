@@ -13,7 +13,7 @@ description: '解析百态文字 还原千姿回忆'
 
 ------
 
-# 解密三班 / Decode Class 3
+# 解密三班 / Decrypt Class 3
 
 ## 运动会 18.10.17-19
 
