@@ -9,7 +9,7 @@ description: '服主Emilio97在非洲开了中文服务器！'
 
 [MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
 
-[关于 / About](http://zhilu.fun/about)[自述 / Readme](http://zhilu.fun/readme)
+[自述 / Readme](http://zhilu.fun/readme)
 
 ------
 
@@ -43,7 +43,7 @@ description: '服主Emilio97在非洲开了中文服务器！'
 
 # 赞服地铁通 / Zamsub on Github
 
-玩家 [JiThee (嵇爾)](https://zh-cn.namemc.com/profile/JiThee.1) 为服务器制作了 [赞服地铁通](http://zamsub.JiThee.name) ，可以Star和Issue他的 [Github项目](https://github.com/JiYouMCC/zamsub) 。
+玩家 [JiThee (嵇爾)](https://zh-cn.namemc.com/profile/JiThee.1) 为服务器制作了 [赞服地铁通](http://zamsub.JiThee.name) ，可以Star和Issue她的 [Github项目](https://github.com/JiYouMCC/zamsub) 。
 
 GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 为此制作了 [赞服地铁通(镜像站)](http://l33z22l11.gitee.io/zamsub/) ，短链接为 [z.zhilu.fun](http://z.zhilu.fun) ，访问速度快，但更新可能存在延迟。
 
