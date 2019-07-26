@@ -3,7 +3,7 @@ title: '赞服 Zamcraft'
 description: '服主Emilio97在非洲开了中文服务器！'
 ---
 
-[主页 / Homepage]()
+[主页 / Homepage](index)
 
 [荣耀三班 / Honor 3](honor3)
 

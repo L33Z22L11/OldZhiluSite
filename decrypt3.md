@@ -3,7 +3,7 @@ title: '解密三班'
 description: '解析百态文字 还原千姿回忆'
 ---
 
-[主页 / Homepage]()
+[主页 / Homepage](index)
 
 [荣耀三班 / Honor 3](honor3)
 

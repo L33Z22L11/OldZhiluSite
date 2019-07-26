@@ -3,7 +3,7 @@ title: '自述'
 description: '关于纸鹿君的个人小站'
 ---
 
-[主页 / Homepage]()
+[主页 / Homepage](index)
 
 [荣耀三班 / Honor 3](honor3)
 

@@ -3,7 +3,7 @@ title: '流光城 Passtime'
 description: '服主皮特洛是个程序员！'
 ---
 
-[主页 / Homepage]()
+[主页 / Homepage](index)
 
 [荣耀三班 / Honor 3](honor3)
 

@@ -3,7 +3,7 @@ title: 'MC服务器存活情况'
 description: 'No further information / Unknown host / Timed out…… 快来pick！你家服务器还好吗？'
 ---
 
-[主页 / Homepage]()
+[主页 / Homepage](index)
 
 [荣耀三班 / Honor 3](honor3)
 

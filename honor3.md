@@ -3,7 +3,7 @@ title: '荣耀三班'
 description: '荣耀三班 绝非一般 励志笃行 敢为人先'
 ---
 
-[主页 / Homepage]()
+[主页 / Homepage](index)
 
 荣耀三班 / Honor 3
 

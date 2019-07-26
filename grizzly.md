@@ -3,7 +3,7 @@ title: '灰熊世界 GrizzlyCraft'
 description: '服主WCZ很懒，还没有在这里介绍服务器。'
 ---
 
-[主页 / Homepage]()
+[主页 / Homepage](index)
 
 [荣耀三班 / Honor 3](honor3)
 
