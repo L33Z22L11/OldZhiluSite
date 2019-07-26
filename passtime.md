@@ -84,7 +84,7 @@ description: '服主皮特洛是个程序员！'
 
 
 
-# [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 对服主的介绍 / About PeterLuo
+# [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 对服主的介绍 / About Owner
 
 选自 [情热大陆](http:/jt.zhilu.fun) 群公告
 
