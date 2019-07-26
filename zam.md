@@ -3,13 +3,13 @@ title: '赞服 Zamcraft'
 description: '服主Emilio97在非洲开了中文服务器！'
 ---
 
-[主页 / Homepage](http://zhilu.fun)
+[主页 / Homepage]()
 
-[荣耀三班 / Honor 3](http://zhilu.fun/honor3)
+[荣耀三班 / Honor 3](honor3)
 
-[MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
+[MC服务器 / Minecraft Servers](mc)
 
-[自述 / Readme](http://zhilu.fun/README)
+[自述 / Readme](README)
 
 ------
 
@@ -33,7 +33,7 @@ description: '服主Emilio97在非洲开了中文服务器！'
 
 选自赞服群公告
 
-> Emilio97 2019/6/10 01:06
+> Emilio97 2019-06-10 01:06
 >
 > 本服白名单为正版验证+首次登入+激活码，请先到服内阅读出生点全部木牌后有信心遵守，再私聊群主索要白名单
 >

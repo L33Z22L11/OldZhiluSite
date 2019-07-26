@@ -5,11 +5,11 @@ description: '这里是纸鹿君的个人小站'
 
 主页 / Homepage
 
-[荣耀三班 / Honor 3](http://zhilu.fun/honor3)
+[荣耀三班 / Honor 3](honor3)
 
-[MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
+[MC服务器 / Minecraft Servers](mc)
 
-[自述 / Readme](http://zhilu.fun/README)
+[自述 / Readme](README)
 
 ------
 

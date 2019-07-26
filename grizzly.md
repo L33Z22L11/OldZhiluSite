@@ -3,13 +3,13 @@ title: '灰熊世界 GrizzlyCraft'
 description: '服主WCZ很懒，还没有在这里介绍服务器。'
 ---
 
-[主页 / Homepage](http://zhilu.fun)
+[主页 / Homepage]()
 
-[荣耀三班 / Honor 3](http://zhilu.fun/honor3)
+[荣耀三班 / Honor 3](honor3)
 
-[MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
+[MC服务器 / Minecraft Servers](mc)
 
-[自述 / Readme](http://zhilu.fun/README)
+[自述 / Readme](README)
 
 ------
 
@@ -17,15 +17,15 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 # 信息 / Information
 
 
-|    服务器地址 / IP | mc.wcz.one                                         |
-| -----------------: | :------------------------------------------------- |
-| 移动地址 / CMCC IP | yd.mc.wcz.one                                      |
-| 联通地址 / CUCC IP | lt.mc.wcz.one                                      |
-|      主页/Homepage | [grizzly.wcz.one](http://grizzly.wcz.one)          |
-|       QQ群 / Group | [538993094](https://jq.qq.com/?_wv=1027&k=5PFhlcQ) |
-|       服主 / Owner | [WCZ](https://zh-cn.namemc.com/profile/WCZ.1)      |
-|     版本 / Version | Spigot 1.14.3                                      |
-|     位置 / Loction | 中国南京                                           |
+|    服务器地址 / IP | mc.wcz.one                                                   |
+| -----------------: | :----------------------------------------------------------- |
+| 移动地址 / CMCC IP | yd.mc.wcz.one                                                |
+| 联通地址 / CUCC IP | lt.mc.wcz.one                                                |
+|      主页/Homepage | [grizzly.wcz.one](http://grizzly.wcz.one)                    |
+|       QQ群 / Group | [538993094](https://jq.qq.com/?_wv=1027&k=5PFhlcQ)           |
+|       服主 / Owner | [WCZ](https://zh-cn.namemc.com/profile/WCZ.1) [(添加QQ)](http://wpa.qq.com/msgrd?v=3&uin=707636381&site=qq&menu=yes) |
+|     版本 / Version | Spigot 1.14.3                                                |
+|     位置 / Loction | 中国南京                                                     |
 
 > 有正版验证
 
@@ -35,7 +35,7 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 
 # 介绍 / Introduction
 
->  [WCZ](https://zh-cn.namemc.com/profile/WCZ.1) 2019/7/20 16:58
+>  [WCZ](http://wpa.qq.com/msgrd?v=3&uin=707636381&site=qq&menu=yes) 2019-07-20 16:58
 >
 > 等我回家，有电脑。
 
@@ -45,7 +45,7 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 
 选自GrizzlyCraft群公告
 
-> WCZ 2016/6/13 21:28
+> [WCZ](http://wpa.qq.com/msgrd?v=3&uin=707636381&site=qq&menu=yes) 2016-6-13 21:28
 >
 > 下面是服务器地址: 
 >

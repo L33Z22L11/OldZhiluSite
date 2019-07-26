@@ -3,17 +3,17 @@ title: '凤翔研学'
 description: '2017年4月1日荣耀三班集体春游'
 ---
 
-[主页 / Homepage](http://zhilu.fun)
+[主页 / Homepage](..)
 
-[荣耀三班 / Honor 3](http://zhilu.fun/honor3)
+[荣耀三班 / Honor 3](../honor3)
 
-[MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
+[MC服务器 / Minecraft Servers](../mc)
 
-[自述 / Readme](http://zhilu.fun/README)
+[自述 / Readme](../README)
 
 ------
 
-# 佚名 研学一日游
+# [原创] 佚名 研学一日游
 
 　　四月一日的早晨，同学们都背着鼓鼓的小背包向南校区的大门走来。院子里停了许多旅游大巴车。旁边是各个班的代表举着旗招呼着同学们。之后，我们排着整齐的队伍，和自己的好朋友手挽手上了大巴车。
 

@@ -3,17 +3,17 @@ title: '凤翔研学'
 description: '2017年4月1日荣耀三班集体春游'
 ---
 
-[主页 / Homepage](http://zhilu.fun)
+[主页 / Homepage](..)
 
-[荣耀三班 / Honor 3](http://zhilu.fun/honor3)
+[荣耀三班 / Honor 3](../honor3)
 
-[MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
+[MC服务器 / Minecraft Servers](../mc)
 
-[自述 / Readme](http://zhilu.fun/README)
+[自述 / Readme](../README)
 
 ------
 
-# 佚名 难忘的一日
+# [原创] 佚名 难忘的一日
 
 　　满怀兴奋的走向回家的路，看着天边金灿灿的太阳，听着鸟儿宛转的歌唱声，多么难忘的一天啊！
 

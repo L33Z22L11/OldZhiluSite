@@ -3,11 +3,11 @@ title: '自述'
 description: '关于纸鹿君的个人小站'
 ---
 
-[主页 / Homepage](http://zhilu.fun)
+[主页 / Homepage]()
 
-[荣耀三班 / Honor 3](http://zhilu.fun/honor3)
+[荣耀三班 / Honor 3](honor3)
 
-[MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
+[MC服务器 / Minecraft Servers](mc)
 
 自述 / Readme
 
