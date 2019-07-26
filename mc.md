@@ -85,7 +85,7 @@ MC服务器 / Minecraft Servers
 | ----------------: | :----------------------------------------------------------- |
 | 服务器百科 / Wiki | [wiki.passtime.cn](http://wiki.passtime.cn) (可能无法正常访问) |
 |      QQ群 / Group | [786973882](https://jq.qq.com/?_wv=1027&k=5iZ9CtJ)           |
-|      服主 / Owner | [peterluo (皮特洛)](http://wpa.qq.com/msgrd?v=3&uin=103401824&site=qq&menu=yes) |
+|      服主 / Owner | [Langwan (皮特洛)](https://zh-cn.namemc.com/profile/Langwan.1) [(添加QQ)](http://wpa.qq.com/msgrd?v=3&uin=103401824&site=qq&menu=yes) |
 |    版本 / Version | Paper 1.13.2                                                 |
 |    位置 / Loction | 中国北京                                                     |
 

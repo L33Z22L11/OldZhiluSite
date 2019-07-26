@@ -20,7 +20,7 @@ description: '服主皮特洛是个程序员！'
 | ----------------: | :----------------------------------------------------------- |
 | 服务器百科 / Wiki | [wiki.passtime.cn](http://wiki.passtime.cn) (可能无法正常访问) |
 |      QQ群 / Group | [786973882](https://jq.qq.com/?_wv=1027&k=5iZ9CtJ)           |
-|      服主 / Owner | [peterluo (皮特洛)](http://wpa.qq.com/msgrd?v=3&uin=103401824&site=qq&menu=yes) |
+|      服主 / Owner | [Langwan (皮特洛)](https://zh-cn.namemc.com/profile/Langwan.1) [(添加QQ)](http://wpa.qq.com/msgrd?v=3&uin=103401824&site=qq&menu=yes) |
 |    版本 / Version | Paper 1.13.2                                                 |
 |    位置 / Loction | 中国北京                                                     |
 
@@ -44,21 +44,21 @@ description: '服主皮特洛是个程序员！'
 
 
 
-# 腐竹失踪之谜 / Mystery of Missing Owner
+# 服主失踪之谜 / Mystery of Missing Owner
 
 ```markdown
-服主PeterLuo已于
+服主Langwan (皮特洛)已于
 2019-07-25 23:44:10
 回归流光城
 ```
 
-据 [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 说， [peterluo (皮特洛)](http://wpa.qq.com/msgrd?v=3&uin=103401824&site=qq&menu=yes) 是一名程序员，他已经暂时离开服务器，投身于他的代码事业了，可以去看看， [支持一下](http://passtime.cn) 。
+据 [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 说， [Langwan (皮特洛)](https://zh-cn.namemc.com/profile/Langwan.1) 是一名程序员，他已经暂时离开服务器，投身于他的代码事业了，可以去看看， [支持一下](http://passtime.cn) 。
 
 > yesd 2019-03-03 17:56:20
 >
 > @皮特洛 为啥凋零蛋用不了了
 >
-> [peterluo (皮特洛)](http://wpa.qq.com/msgrd?v=3&uin=103401824&site=qq&menu=yes) 2019-03-03 17:56:49
+> [Langwan (皮特洛)](http://wpa.qq.com/msgrd?v=3&uin=103401824&site=qq&menu=yes) 2019-03-03 17:56:49
 >
 > 我最近工作有点忙 我稍晚看看
 
@@ -72,7 +72,7 @@ description: '服主皮特洛是个程序员！'
 >
 > 你的网站没有favicon.ico
 >
-> [peterluo (皮特洛)](http://wpa.qq.com/msgrd?v=3&uin=103401824&site=qq&menu=yes) 2018-12-08 19:01:08
+> [Langwan (皮特洛)](http://wpa.qq.com/msgrd?v=3&uin=103401824&site=qq&menu=yes) 2018-12-08 19:01:08
 >
 > 恩还没来及弄
 >
@@ -84,7 +84,7 @@ description: '服主皮特洛是个程序员！'
 
 
 
-# [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 对 [peterluo (皮特洛)](http://wpa.qq.com/msgrd?v=3&uin=103401824&site=qq&menu=yes) 的介绍 / About PeterLuo
+# [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 对服主的介绍 / About PeterLuo
 
 选自 [情热大陆](http:/jt.zhilu.fun) 群公告
 
