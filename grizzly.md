@@ -9,7 +9,7 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 
 [MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
 
-[自述 / Readme](http://zhilu.fun/readme)
+[自述 / Readme](http://zhilu.fun/README)
 
 ------
 

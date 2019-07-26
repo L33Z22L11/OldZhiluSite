@@ -9,7 +9,7 @@ description: '解析百态文字 还原千姿回忆'
 
 [MC服务器 / Minecraft Servers](http://zhilu.fun/mc)
 
-[自述 / Readme](http://zhilu.fun/readme)
+[自述 / Readme](http://zhilu.fun/README)
 
 ------
 

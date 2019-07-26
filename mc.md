@@ -9,7 +9,7 @@ description: 'No further information / Unknown host / Timed out…… 快来pick
 
 MC服务器 / Minecraft Servers
 
-[自述 / Readme](http://zhilu.fun/readme)
+[自述 / Readme](http://zhilu.fun/README)
 
 ------
 
