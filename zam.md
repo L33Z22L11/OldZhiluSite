@@ -20,7 +20,7 @@ description: '服主Emilio97在非洲开了中文服务器！'
 | --------------: | :----------------------------------------------------------- |
 |    QQ群 / Group | [607393477](https://jq.qq.com/?_wv=1027&k=510OHpV)           |
 |    服主 / Owner | [Emilio97 (玖柒)](https://zh-cn.namemc.com/profile/Emilio97.2) |
-|  版本 / Version | Paper 1.13.2                                                 |
+|  版本 / Version | Paper 1.13.2 (准备升级1.14.4)                               |
 |  位置 / Loction | 中国上海                                                     |
 
 > 有正版验证和白名单
