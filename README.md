@@ -3,6 +3,10 @@ title: '自述'
 description: '关于纸鹿君的个人小站'
 ---
 
+[![HitCount](http://hits.dwyl.io/L33Z22L11/Zhilufun.svg)](http://hits.dwyl.io/L33Z22L11/Zhilufun)
+
+------
+
 [主页 / Homepage](index)
 
 [荣耀三班 / Honor 3](honor3)
