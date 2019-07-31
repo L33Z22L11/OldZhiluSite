@@ -58,7 +58,7 @@ description: '服主Emilio97在非洲开了中文服务器！'
 >
 > 服务器版本：1.13.2+
 >
-> 通用域名：mc.zamcraft.top 
+> 通用域名：mc.zamcraft.top
 >
 > 备用域名：mc.zamcraft.top:10021
 
