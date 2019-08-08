@@ -63,7 +63,7 @@ description: '荣耀三班 绝非一般 励志笃行 敢为人先'
 
 2019-08-08 22:24
 
-`纸鹿`你还挺有:two_hearts:![img](http://qzonestyle.gtimg.cn/qzone/em/e400623.gif)![img](http://qzonestyle.gtimg.cn/qzone/em/e291.png)
+`纸鹿`你还挺有![img](http://qzonestyle.gtimg.cn/qzone/em/e400623.gif)![img](http://qzonestyle.gtimg.cn/qzone/em/e291.png)
 
 > 相遇是缘，一生有你。
 
