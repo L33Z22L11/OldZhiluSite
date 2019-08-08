@@ -45,7 +45,7 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 
 选自GrizzlyCraft群公告
 
-> [WCZ](http://wpa.qq.com/msgrd?v=3&uin=707636381&site=qq&menu=yes) 2016-6-13 21:28
+> [WCZ](http://wpa.qq.com/msgrd?v=3&uin=707636381&site=qq&menu=yes) 2016-06-13 21:28
 >
 > 下面是服务器地址: 
 >
