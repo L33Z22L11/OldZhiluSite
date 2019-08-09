@@ -27,3 +27,6 @@ description: '简洁的个人小站'
 >
 > 己亥年七月初八。
 
+
+
+![](http://q1.qlogo.cn/g?b=qq&nk=2399052066&s=640)
