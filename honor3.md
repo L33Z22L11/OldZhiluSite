@@ -1,7 +1,5 @@
----
 title: '荣耀三班'
 description: '荣耀三班 绝非一般 励志笃行 敢为人先'
----
 
 [主页 / Homepage](index)
 
@@ -13,9 +11,9 @@ description: '荣耀三班 绝非一般 励志笃行 敢为人先'
 
 ------
 
-# 荣耀三班 / Honor 3
+# ![](http://p.qlogo.cn/gh/498288390/498288390/100/)荣耀三班 / Honor 3
 
-## [解密三班 / Decrypt Class 3](decrypt3)
+## [![](http://p.qlogo.cn/gh/384065977/384065977/100/)解密三班 / Decrypt Class 3](decrypt3)
 
 ## 文字征集 [点击添加留言...](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)
 
