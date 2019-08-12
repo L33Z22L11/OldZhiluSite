@@ -13,7 +13,17 @@ description: '简洁的个人小站'
 
 ------
 
-![](http://thirdqq.qlogo.cn/g?b=qq&nk=2399052066&s=3)
+# [情热大陆](qrdl.fun)
+
+由[CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 、 [DiSHIL (黑灵)](https://zh-cn.namemc.com/profile/DiSHIL.1) 和 **[Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)**运营的Minecraft 1.12.2服务器。
+
+
+
+# [ExpressMe](https://l33z22l11.github.io/ExpressMe/)
+
+Minecraft 材质包，包含众多趣味表情。
+
+
 
 # 纸鹿站记
 
@@ -28,6 +38,5 @@ description: '简洁的个人小站'
 > ~~习时两年有半，~~站初成，请观之以礼。若有误，[击此](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)，汝甚美。
 >
 > 己亥年七月初八。
-
-
-
+>
+> ![](http://thirdqq.qlogo.cn/g?b=qq&nk=2399052066&s=1)
