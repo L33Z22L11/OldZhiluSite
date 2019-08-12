@@ -13,7 +13,9 @@ description: '简洁的个人小站'
 
 ------
 
-# ![](http://thirdqq.qlogo.cn/g?b=qq&nk=2399052066&s=1)纸鹿站记
+![](http://thirdqq.qlogo.cn/g?b=qq&nk=2399052066&s=3)
+
+# 纸鹿站记
 
 > 关中有纸鹿君者，癸未年生者也。~~善摸鱼咕甚~~。
 >
