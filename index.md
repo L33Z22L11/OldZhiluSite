@@ -1,27 +1,21 @@
 ---
 title: '纸鹿君'
-description: '简洁的个人小站'
+description: '一个简洁的个人小站'
 ---
-
-主页 / Homepage
-
-[荣耀三班 / Honor 3](honor3)
-
-[MC服务器 / Minecraft Servers](mc)
-
-[自述 / Readme](README)
-
-------
 
 # [情热大陆](qrdl.fun)
 
-由[CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 、 [DiSHIL (黑灵)](https://zh-cn.namemc.com/profile/DiSHIL.1) 和 **[Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)**运营的Minecraft 1.12.2服务器。
+由 [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 、 [DiSHIL (黑灵)](https://zh-cn.namemc.com/profile/DiSHIL.1) 和 **[Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 运营的Minecraft 1.12.2服务器。
+
+[![qrdl.fun](http://p.qlogo.cn/gh/705649604/705649604/100/)](qrdl.fun)
 
 
 
-# [ExpressMe](https://l33z22l11.github.io/ExpressMe/)
+# [ExpressMe](http://l33z22l11.github.io/ExpressMe/)
 
 Minecraft 材质包，包含众多趣味表情。
+
+[![ExpressmePreview](http://L33Z22L11.github.io/ExpressMe/preview.png)](http://l33z22l11.github.io/ExpressMe/)
 
 
 
@@ -39,4 +33,4 @@ Minecraft 材质包，包含众多趣味表情。
 >
 > 己亥年七月初八。
 >
-> ![](http://thirdqq.qlogo.cn/g?b=qq&nk=2399052066&s=1)
+> ![](http://thirdqq.qlogo.cn/g?b=qq&nk=2399052066&s=3)

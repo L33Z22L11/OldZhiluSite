@@ -3,15 +3,7 @@ title: '解密三班'
 description: '解析百态文字 还原千姿回忆'
 ---
 
-[主页 / Homepage](index)
-
-[荣耀三班 / Honor 3](honor3)
-
-[MC服务器 / Minecraft Servers](mc)
-
-[自述 / Readme](README)
-
-------
+![](http://p.qlogo.cn/gh/498288390/498288390/0/)
 
 # 解密三班 / Decrypt Class 3
 
@@ -75,3 +67,4 @@ description: '解析百态文字 还原千姿回忆'
 
 [佚名 雍州游记](fx/yz)
 
+![](http://p.qlogo.cn/gh/384065977/384065977/0/)

@@ -3,18 +3,7 @@ title: '赞服 Zamcraft'
 description: '服主Emilio97在非洲开了中文服务器！'
 ---
 
-[主页 / Homepage](index)
-
-[荣耀三班 / Honor 3](honor3)
-
-[MC服务器 / Minecraft Servers](mc)
-
-[自述 / Readme](README)
-
-------
-
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.zamcraft.top/embed" width="728" height="90"></iframe>
-
 # 信息 / Information
 
 |      服务器地址 / IP | mc.zamcraft.top                                              |
@@ -26,7 +15,7 @@ description: '服主Emilio97在非洲开了中文服务器！'
 
 > 有正版验证和白名单
 
-**萌新 [Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 为服务器制作了解析IP：zc.zhilu.fun和zamtest.zhilu.fun。
+**萌新 [Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 为服务器制作了解析IP：zam.zhilu.fun。
 
 
 # 介绍 / Introduction
@@ -68,5 +57,5 @@ description: '服主Emilio97在非洲开了中文服务器！'
 
 玩家 [JiThee (嵇爾)](https://zh-cn.namemc.com/profile/JiThee.1) 为服务器制作了 [赞服地铁通](http://zamsub.JiThee.name) ，可以Star和Issue她的 [Github项目](https://github.com/JiYouMCC/zamsub) 。
 
-GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 为此制作了 [赞服地铁通(镜像站)](http://l33z22l11.gitee.io/zamsub/) ，短链接为 [z.zhilu.fun](http://z.zhilu.fun) ，访问速度快，但更新可能存在延迟。
+GitHub Pages服务器位于国外，加载速度较慢。**萌新 [Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 为此制作了 [赞服地铁通(镜像站)](http://l33z22l11.gitee.io/zamsub/) ，短链接为 [z.zhilu.fun](http://z.zhilu.fun) ，在国内访问速度快，但更新可能存在延迟。
 
