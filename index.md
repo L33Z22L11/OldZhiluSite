@@ -3,11 +3,19 @@ title: '纸鹿君'
 description: '一个简洁的个人小站'
 ---
 
-# [情热大陆](qrdl.fun)
+# [宝中22届16班 ucme.icu](ucme.icu)
+
+`纸鹿`所在的高中班级。
+
+[![ucme.icu](http://p.qlogo.cn/gh/902246817/902246817/100/)](http://ucme.icu)
+
+
+
+# [情热大陆 qrdl.fun](http://qrdl.fun)
 
 由 [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 、 [DiSHIL (黑灵)](https://zh-cn.namemc.com/profile/DiSHIL.1) 和 **[Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 运营的Minecraft 1.12.2服务器。
 
-[![qrdl.fun](http://p.qlogo.cn/gh/705649604/705649604/100/)](qrdl.fun)
+[![qrdl.fun](http://p.qlogo.cn/gh/705649604/705649604/100/)](http://qrdl.fun)
 
 
 

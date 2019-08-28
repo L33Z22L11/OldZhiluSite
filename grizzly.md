@@ -7,15 +7,15 @@ description: '服主WCZ很懒，还没有在这里介绍服务器。'
 # ~~信息 / Information~~
 
 
-|    ~~服务器地址 / IP~~ | ~~mc.wcz.one~~                                               |
-| ---------------------: | :----------------------------------------------------------- |
-| ~~移动地址 / CMCC IP~~ | ~~yd.mc.wcz.one~~                                            |
-| ~~联通地址 / CUCC IP~~ | ~~lt.mc.wcz.one~~                                            |
-|      ~~主页/Homepage~~ | ~~[grizzly.wcz.one](http://grizzly.wcz.one)~~                |
-|       ~~QQ群 / Group~~ | ~~[538993094](https://jq.qq.com/?_wv=1027&k=5PFhlcQ)~~       |
-|       ~~服主 / Owner~~ | ~~[WCZ](https://zh-cn.namemc.com/profile/WCZ.1) [(添加QQ)](http://wpa.qq.com/msgrd?v=3&uin=707636381&site=qq&menu=yes)~~ |
-|     ~~版本 / Version~~ | ~~Spigot 1.14.3~~                                            |
-|     ~~位置 / Loction~~ | ~~中国南京~~                                                 |
+|      ~~服务器地址 / IP~~ | ~~mc.wcz.one~~                                               |
+| -----------------------: | :----------------------------------------------------------- |
+| ~~移动地址 / Mobile IP~~ | ~~yd.mc.wcz.one~~                                            |
+| ~~联通地址 / Unicom IP~~ | ~~lt.mc.wcz.one~~                                            |
+|        ~~主页/Homepage~~ | ~~[grizzly.wcz.one](http://grizzly.wcz.one)~~                |
+|         ~~QQ群 / Group~~ | ~~[538993094](https://jq.qq.com/?_wv=1027&k=5PFhlcQ)~~       |
+|         ~~服主 / Owner~~ | ~~[WCZ](https://zh-cn.namemc.com/profile/WCZ.1) [(添加QQ)](http://wpa.qq.com/msgrd?v=3&uin=707636381&site=qq&menu=yes)~~ |
+|       ~~版本 / Version~~ | ~~Spigot 1.14.3~~                                            |
+|       ~~位置 / Loction~~ | ~~中国南京~~                                                 |
 
 > ~~有正版验证~~
 
