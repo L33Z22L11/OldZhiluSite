@@ -3,7 +3,7 @@ title: '纸鹿君'
 description: '一个简洁的个人小站'
 ---
 
-# [宝中22届16班 ucme.icu](ucme.icu)
+# [宝中22届16班 ucme.icu](http://ucme.icu)
 
 `纸鹿`所在的高中班级。
 
