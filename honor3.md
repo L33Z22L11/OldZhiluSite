@@ -3,9 +3,33 @@ title: '荣耀三班'
 description: '荣耀三班 绝非一般 励志笃行 敢为人先'
 ---
 
-![](https://ss2.meipian.me/users/16033976/a3d8cb264c9c41f79c5181781bff9216.jpg)
+![header](https://ss2.meipian.me/users/16033976/9dadd66a24084732a4d485844602233c.jpg)
 
 # 荣耀三班 / Honor 3
+
+## 班级风采 / Class Introduction
+
+当56个活力无限的少年选择追求卓越的时候，便把优秀当成了习惯。他们以荣耀之名，竖起理想风帆，诠释奋斗的青春最美丽；他们以勤奋为伴，以快乐为友，注重细节，精进不休；他们正在用最能演绎青春的方式描绘着自己的无悔选择。
+
+## 班主任寄语 / Headteacher's Message
+
+![teacher](http://wx.qlogo.cn/mmhead/Q3auHgzwzM5xW2okPic69OwyiaPIYLcgNzbOibQt6521r80q39UTzribRw/)
+
+我喜欢你们自信的样子，从容儒雅，气宇轩昂。我坚信：今天不随便，明天才坦然，静待你们荣耀绽放。
+
+## 班训 / Class Atmosphere
+
+团结 拼搏 求实 进取
+
+## 班级宣言 / Slogan
+
+荣耀三班 绝非一般 励志笃行 敢为人先
+
+## 班级全家福 / Class Family Portrait
+
+![photo](https://mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCIhWHyJibye4ibUwG9QyYJn57muKINX5xlDBxT2ib390znmldpxvia2HtkINMnpJbNZwPKwggwnGkXnRQ/)
+
+
 
 ## [解密三班 / Decrypt Class 3](decrypt3)
 
