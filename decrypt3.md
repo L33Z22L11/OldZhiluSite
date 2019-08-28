@@ -37,7 +37,7 @@ description: '解析百态文字 还原千姿回忆'
 
 ## 感恩从心开始 让爱照亮彼此 18.5.7
 
-感恩周主题团队会[主持词](txg/180507h)　　[通讯稿](180507c)　[(公众号版)](https://mp.weixin.qq.com/s/g8I7qTwPl5FIqvlHSK5TOA)
+感恩周主题团队会[主持词](txg/180507h)　　[通讯稿](txg/180507c)　[(公众号版)](https://mp.weixin.qq.com/s/g8I7qTwPl5FIqvlHSK5TOA)
 
 ## 做一个能学习、会学习，能思考、会思考的一中人 18.2.8
 
