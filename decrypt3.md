@@ -18,9 +18,13 @@ description: '解析百态文字 还原千姿回忆'
 ### 内幕
 
 严老师：@所有人
+
 **感恩周视频采集群**
+
 各位家长大家好，为了创新感恩活动形式，增强活动实效，凝聚各方力量，决战中考，根据班级实际，选择群里七名学生的家长作为此次感恩周活动的参与者。
+
 活动内容：每位家长录制一分钟左右的视频，视频内容包括对孩子想说的话（理解学生的辛苦）、鼓励的语言、对班级的期望……本视频将严格保密，届时会在5月6日下午的班会环节中“意外”播放，希望大家积极参与，最迟于明天中午12：00前。
+
 发送邮箱：`89225****@qq.com`或微信。
 
 ## 竭尽全力改正问题 全力以赴备战中考 19.3.11
@@ -59,7 +63,7 @@ description: '解析百态文字 还原千姿回忆'
 
 让快乐拼搏成为青春的主旋律主题班会[(美篇版)](https://www.meipian.cn/taa208a)
 
-## 启航篇 17.7.20
+## 鹭岛华侨情，美丽厦门行 17.7.20
 
 览途中美景，谈青春感悟，壮奋斗豪情[(美篇版)](https://www.meipian.cn/ogruql7) `45号女生`
 
@@ -67,46 +71,46 @@ description: '解析百态文字 还原千姿回忆'
 
 ## 凤翔研学 17.4.1
 
-[1号女生 凤翔之行](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/01)
+[1号女生 凤翔之行](fx/01)
 
-[4号男生 研学旅行](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/04)
+[4号男生 研学旅行](fx/04)
 
-[5号女生 无题](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/05)
+[5号女生 无题](fx/05)
 
-[6号男生 研学一日游](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/06)
+[6号男生 研学一日游](fx/06)
 
-[10号男生 研学一日游](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/10)
+[10号男生 研学一日游](fx/10)
 
-[20号女生 研学一日游](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/20)
+[20号女生 研学一日游](fx/20)
 
-[23号男生 探访周秦文化之凤翔一日游](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/23)
+[23号男生 探访周秦文化之凤翔一日游](fx/23)
 
-[25号女生 研学之旅](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/25)
+[25号女生 研学之旅](fx/25)
 
-[28号男生 快乐研学](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/28)
+[28号男生 快乐研学](fx/28)
 
-[29号男生 研学一日游](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/29)
+[29号男生 研学一日游](fx/29)
 
-[31号男生 美丽的凤翔](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/31)
+[31号男生 美丽的凤翔](fx/31)
 
-[37号女生 无题](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/37)
+[37号女生 无题](fx/37)
 
-[38号男生 周秦文化遍大地](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/38)
+[38号男生 周秦文化遍大地](fx/38)
 
-[41号男生 研学一日游](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/41)
+[41号男生 研学一日游](fx/41)
 
-[43号男生 研学旅行](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/43)
+[43号男生 研学旅行](fx/43)
 
-[45号女生 凤翔游记](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/45)
+[45号女生 凤翔游记](fx/45)
 
-[47号女生 访周秦文化](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/47)
+[47号女生 访周秦文化](fx/47)
 
-[49号男生 研学一日游](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/49)
+[49号男生 研学一日游](fx/49)
 
-[佚名 难忘的一日](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/nw)
+[佚名 难忘的一日](fx/nw)
 
-[佚名 研学一日游](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/yx)
+[佚名 研学一日游](fx/yx)
 
-[佚名 雍州游记](https://github.com/L33Z22L11/Zhilu.fun/blob/master/fx/yz)
+[佚名 雍州游记](fx/yz)
 
 ![](http://p.qlogo.cn/gh/498288390/498288390/0/)
