@@ -1,6 +1,6 @@
 ---
-title: '纸鹿君'
-description: '一个简洁的个人小站'
+title: '纸鹿小站'
+description: '纸鹿至麓不知路 支炉制露不止漉'
 ---
 
 # [宝中22届16班 ucme.icu](http://ucme.icu)
