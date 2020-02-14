@@ -14,8 +14,10 @@ description: '关于纸鹿君的个人小站'
 
 # 友链 / Cooperative Links
 
-WCZ的个人主页： [wcz.one](http://wcz.one)
+(按时间顺序排列）
 
-Eawakeofi团队： [eawakeofi.top](http://eawakeofi.top)
+WCZ的个人主页：[wcz.one](http://wcz.one)
 
+Eawakeofi团队：[eawakeofi.com](http://eawakeofi.com) **[纸鹿](http://zhilu.eawakeofi.com)**
 
+Colsrch个人站：[colsrch.top](http://colsrch.top)
