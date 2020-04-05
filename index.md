@@ -3,8 +3,6 @@ title: '纸鹿小站'
 description: '纸鹿至麓不知路 支炉制露不止漉'
 ---
 
-# [最新摸鱼成果=w=](https://www.kdocs.cn/l/sEe4z3eig)
-
 # [假期计时器](http://ucme.icu/timer.html)
 
 # [宝中22届16班 ucme.icu](http://ucme.icu)
