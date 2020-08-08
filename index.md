@@ -3,21 +3,23 @@ title: '纸鹿小站'
 description: '纸鹿至麓不知路 支炉制露不止漉'
 ---
 
-# [假期计时器](http://ucme.icu/timer.html)
+# [暑假计时器](//bye.ourhome.work)
 
-# [宝中22届16班 ucme.icu](http://ucme.icu)
+# [宝中22届16班 do.ourhome.work](//do.ourhome.work)
 
 `纸鹿`所在的高中班级。
 
-[![ucme.icu](http://p.qlogo.cn/gh/902246817/902246817/100/)](http://ucme.icu)
+[![Class16](http://p.qlogo.cn/gh/902246817/902246817/100/)](http://ucme.icu)
 
 
 
-# [情热大陆 qrdl.fun](http://qrdl.fun)
+# 情热大陆
 
 由 [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 、 [DiSHIL (黑灵)](https://zh-cn.namemc.com/profile/DiSHIL.1) 和 **[Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 运营的Minecraft 1.12.2服务器。
 
-[![qrdl.fun](http://p.qlogo.cn/gh/705649604/705649604/100/)](http://qrdl.fun)
+目前已关闭
+
+[![qrdl](http://p.qlogo.cn/gh/705649604/705649604/100/)](http://qrdl.fun)
 
 
 
