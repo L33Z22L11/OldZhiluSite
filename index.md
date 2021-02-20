@@ -3,9 +3,9 @@ title: '纸鹿小站'
 description: '纸鹿至麓不知路 支炉制露不止漉'
 ---
 
-# [暑假计时器](//bye.ourhome.work)
+# [学期计时版](//h5.zhilu.cyou/termtimer.html)
 
-# [宝中22届16班 do.ourhome.work](//do.ourhome.work)
+# [宝中22届16班](//h16.zhilu.cyou)
 
 `纸鹿`所在的高中班级。
 
@@ -13,7 +13,7 @@ description: '纸鹿至麓不知路 支炉制露不止漉'
 
 
 
-# 情热大陆
+# [情热大陆](//mc.zhilu.cyou)
 
 由 [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1) 、 [DiSHIL (黑灵)](https://zh-cn.namemc.com/profile/DiSHIL.1) 和 **[Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 运营的Minecraft 1.12.2服务器。
 
