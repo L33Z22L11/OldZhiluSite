@@ -3,13 +3,18 @@ title: '纸鹿小站'
 description: '纸鹿至麓不知路 支炉制露不止漉'
 ---
 
-# [学期计时版](//h5.zhilu.cyou/termtimer.html)
+# 宝中Support
+
+[网课资源站](//bjzx.zhilu.cyou)
+[理科考试计时](//h5.zhilu.cyou/examtimer.html)
+[文科考试计时](//h5.zhilu.cyou/examtimer2.html)
+[学期计时器](//h5.zhilu.cyou/termtimer.html)
 
 # [宝中22届16班](//h16.zhilu.cyou)
 
 `纸鹿`所在的高中班级。
 
-[![Class16](http://p.qlogo.cn/gh/902246817/902246817/100/)](http://ucme.icu)
+[![Class16](http://p.qlogo.cn/gh/902246817/902246817/100/)](//h16.zhilu.cyou)
 
 
 
@@ -19,15 +24,15 @@ description: '纸鹿至麓不知路 支炉制露不止漉'
 
 目前已关闭
 
-[![qrdl](http://p.qlogo.cn/gh/705649604/705649604/100/)](http://qrdl.fun)
+[![qrdl](http://p.qlogo.cn/gh/705649604/705649604/100/)](//mc.zhilu.cyou)
 
 
 
-# [ExpressMe](http://l33z22l11.github.io/ExpressMe/)
+# [ExpressMe](//l33z22l11.github.io/ExpressMe/)
 
 Minecraft 材质包，包含众多趣味表情。
 
-[![ExpressmePreview](http://L33Z22L11.github.io/ExpressMe/preview.png)](http://l33z22l11.github.io/ExpressMe/)
+[![ExpressmePreview](http://L33Z22L11.github.io/ExpressMe/preview.png)](//l33z22l11.github.io/ExpressMe/)
 
 
 
@@ -37,7 +42,7 @@ Minecraft 材质包，包含众多趣味表情。
 >
 > 人之言曰：“汝惰甚，页之不成。”曰：“无文以成。”
 >
-> 人之言曰：“盍学？”对曰：“方学一语曰Python。”
+> 人之言曰：“盍学？”对曰：“方学HTML、CSS与JavaScript。”
 >
 > 或曰：“汝何为作此站？”答之曰：“无事，乃作网站以研。”
 >
